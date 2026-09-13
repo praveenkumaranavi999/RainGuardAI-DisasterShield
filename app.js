@@ -1,4 +1,4 @@
-const API="http://127.0.0.1:8010";
+const API="https://rainguardai-disastershield.onrender.com";
 let map,marks=[];
 function init()
 {
