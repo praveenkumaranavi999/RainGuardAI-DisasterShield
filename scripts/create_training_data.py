@@ -1,0 +1,1 @@
+See backend/model pipeline; regenerate rainfall_training_data.csv with the same feature schema.

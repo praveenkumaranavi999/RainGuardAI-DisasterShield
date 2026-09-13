@@ -1,0 +1,1 @@
+Synthetic inundation dataset included in data/ for prototype training.
